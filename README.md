@@ -2,7 +2,7 @@
 
 An interactive Power BI dashboard that gives HR leaders a one-page view of headcount, satisfaction, tenure, salary, and turnover, filterable by **Year**, **Department**, and **Location**.
 
-![Dashboard Preview](images/dashboard.png)
+<img width="1311" height="733" alt="Screenshot 2026-10-17 013527" src="https://github.com/user-attachments/assets/9ef985b6-3f5a-458b-b0a7-dfaeea59a174" />
 
 ## 📊 What's Inside
 
